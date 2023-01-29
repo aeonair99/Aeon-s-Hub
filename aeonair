@@ -1,0 +1,1793 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Aeon's WL Hub", "Sentinel")
+
+--MAIN
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Spells")
+
+
+MainSection:NewButton("Avada Kedavra", "Just the spell, nothing special.", function()
+       game.Players:Chat("avada kedavra")
+    wait(0.1)
+end)
+
+MainSection:NewButton("Aguamenti", "Just the spell, nothing special.", function()
+    game.Players:Chat("aguamenti")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Ascendio", "Just the spell, nothing special.", function()
+    game.Players:Chat("ascendio")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Ascendre", "Just the spell, nothing special.", function()
+    game.Players:Chat("ascendre")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Episkey", "Just the spell, nothing special.", function()
+    game.Players:Chat("episkey")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Expecto Patronum", "Just the spell, nothing special.", function()
+    game.Players:Chat("expecto patronum")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Expelliarmus", "Just the spell, nothing special.", function()
+    game.Players:Chat("expelliarmus")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Lumos", "Just the spell, nothing special.", function()
+    game.Players:Chat("lumos")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Normalo", "Just the spell, nothing special.", function()
+    game.Players:Chat("normalo")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Nox", "Just the spell, nothing special.", function()
+    game.Players:Chat("nox")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Orbis", "Just the spell, nothing special.", function()
+    game.Players:Chat("orbis")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Orchideous", "Just the spell, nothing special.", function()
+    game.Players:Chat("orchideous")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Stupefy", "Just the spell, nothing special.", function()
+    game.Players:Chat("stupefy")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Periculum", "Just the spell, nothing special.", function()
+    game.Players:Chat("periculum")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Crucio", "Just the spell, nothing special.", function()
+    game.Players:Chat("crucio")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Apparate", "Just the spell, nothing special.", function()
+    game.Players:Chat("apparate")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Avifors", "Just the spell, nothing special.", function()
+    game.Players:Chat("avifors")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Bubblify", "Just the spell, nothing special.", function()
+    game.Players:Chat("bubblify")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Presentus", "Just the spell, nothing special.", function()
+    game.Players:Chat("presentus")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Enlargo", "Just the spell, nothing special.", function()
+    game.Players:Chat("enlargo")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Reducio", "Just the spell, nothing special.", function()
+    game.Players:Chat("reducio")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Everte Statum", "Just the spell, nothing special.", function()
+    game.Players:Chat("everte statum")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Expulso", "Just the spell, nothing special.", function()
+    game.Players:Chat("expulso")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Glacious", "Just the spell, nothing special.", function()
+    game.Players:Chat("glacious")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Imperio", "Just the spell, nothing special.", function()
+    game.Players:Chat("imperio")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Incendio", "Just the spell, nothing special.", function()
+    game.Players:Chat("incendio")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Levicorpus", "Just the spell, nothing special.", function()
+    game.Players:Chat("levicorpus")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Rockifors", "Just the spell, nothing special.", function()
+    game.Players:Chat("rockifors")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Sectumsempra", "Just the spell, nothing special.", function()
+    game.Players:Chat("sectumsempra")
+ wait(0.1)
+end)
+
+MainSection:NewButton("Flight", "Just the spell, nothing special.", function()
+    game.Players:Chat("flight")
+ wait(0.1)
+end)
+
+local MainSection2 = Main:NewSection("Spam Spells")
+
+
+MainSection2:NewToggle("Expulso Spam", "Not writing shit bruh", function(state)
+    if state then
+        game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+      game.Players:Chat("what")
+        wait(0.3)
+    game.Players:Chat("expulso")
+        wait(0.3)
+        
+                
+
+    else
+        print("Toggle Off")
+    end
+end)
+
+MainSection2:NewToggle("Incendio Spam", "Not writing shit bruh", function(state)
+    if state then
+        game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    game.Players:Chat("hi")
+        wait(.1)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+        wait(.3)
+    game.Players:Chat("incendio")
+    
+    game.Players:Chat("hi")
+        wait(.1)
+    
+        
+                
+
+    else
+        print("Toggle Off")
+    end
+end)
+
+MainSection2:NewToggle("Everte Spam", "Not writing shit bruh", function(state)
+    if state then
+        game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+     game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("everte statum")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.1)	
+    else
+        print("Toggle Off")
+    end
+end)
+
+MainSection2:NewToggle("Avada Spam", "Not writing shit bruh", function(state)
+    if state then
+        game.Players:Chat("why")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("maybe")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("when")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("yes")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("what")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hello there")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hello")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hello")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hi")
+        wait(0.01)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("avada kedavra")
+        wait(0.3)
+    game.Players:Chat("hello")
+        wait(0.01)
+    
+    else
+        print("Toggle Off")
+    end
+end)
+
+
+local Misc = Window:NewTab("Misc")
+local MiscSection = Misc:NewSection("Misc")
+
+
+MiscSection:NewButton("Cloak TP Tool", "Better version of apparate.", function()
+    local player = game.Players.LocalPlayer
+    local mouse = player:GetMouse()
+    local Animate 
+    local Humanoid = player.Character:FindFirstChild('Humanoid')
+    
+    
+    mouse = game.Players.LocalPlayer:GetMouse()
+    tool = Instance.new("Tool")
+    tool.RequiresHandle = false
+    tool.Name = "tptool"
+    tool.Activated:connect(function()
+     local Animation = Instance.new("Animation", player.Character)
+      Animation.AnimationId = "rbxassetid://5"
+      Animate = Humanoid:LoadAnimation(Animation)
+      Animate:Play(.1, 1, 1)
+    
+    Animate:Stop()
+    game.ReplicatedStorage.Events.WandEvent:FireServer("flight", true)
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("Cloak", true)
+    
+    
+    
+    
+    
+     local pos = mouse.Hit.p
+    pos = CFrame.new(pos.X,pos.Y + 3.5,pos.Z)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("Cloak", false)
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("flight", false)
+    
+    
+    Animate:Stop()
+    end)
+    tool.Parent = game.Players.LocalPlayer.Backpack
+    
+end)
+
+MiscSection:NewButton("Presentus Tool", "When ur birthday is on christmas.", function()
+    mouse = game.Players.LocalPlayer:GetMouse()
+tool = Instance.new("Tool")
+tool.RequiresHandle = false
+tool.Name = "Present"
+tool.Activated:connect(function()
+ game.ReplicatedStorage.Events.WandEvent:FireServer("presentus")
+end)
+tool.Parent = game.Players.LocalPlayer.Backpack
+end)
+
+MiscSection:NewButton("Cloak Spam", "G to toggle", function()
+    local solar = false
+    local cylane = "g"
+    
+    local m = game:GetService"Players".LocalPlayer:GetMouse()
+    m.KeyDown:connect(function(k)
+       if k == cylane then
+           solar = not solar
+       end
+    end)
+    
+    spawn(function()
+       while wait() do
+           if solar then
+    game.ReplicatedStorage.Events.WandEvent:FireServer("Cloak", true)
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("Cloak", false)
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("flight", true)
+    
+    game.ReplicatedStorage.Events.WandEvent:FireServer("flight", false)
+           end
+       end
+    end)
+
+end)
+
+MiscSection:NewButton("Infinite Yield", "Fates admin is 1000x better than this shit.", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+end)
+
+MiscSection:NewButton("Inf Patronus 5 Seconds", "Just the spell, nothing special.", function()
+    while true do
+        wait()
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        game.Players.LocalPlayer.Energy.Value = 15
+        wait (.1)
+        return
+        end
+end)
+
+MiscSection:NewButton("Hitbox", "T = on, P = off.", function()
+    game:GetService("StarterGui"):SetCore("SendNotification", {Title = "yeet", Text = "t = Enabled : p = disabled."})
+    local player = game.Players.LocalPlayer
+    local mouse = player:GetMouse()
+    
+    -- Settings
+    
+    bind = "" 
+    bind2 = "t"
+    bind3 = "p"
+    
+    -- Script
+    
+    mouse.KeyDown:connect(function(key)
+    if key == bind then
+    player.Character.HumanoidRootPart.CFrame = CFrame.new(1254.09656, 137.906067, -172.128204)
+    end
+    end)
+    
+    mouse.KeyDown:connect(function(key2)
+    if key2 == bind2 then
+    _G.HeadSize = 10
+    _G.Disabled = true
+    
+    
+    if _G.Disabled then
+    for i,v in next, game:GetService('Players'):GetPlayers() do
+    if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+    pcall(function()
+    v.Character.HumanoidRootPart.Size = Vector3.new(_G.HeadSize,_G.HeadSize,_G.HeadSize)
+    v.Character.HumanoidRootPart.Transparency = 0.7
+    v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Storm blue")
+    v.Character.HumanoidRootPart.Material = "Neon"
+    v.Character.HumanoidRootPart.CanCollide = false
+    end)
+    end
+    end
+    end
+    end
+    end)
+    
+    mouse.KeyDown:connect(function(key3)
+    if key3 == bind3 then
+    _G.HeadSize = 10
+    _G.Disabled = true
+    
+    
+    for i,v in next, game:GetService('Players'):GetPlayers() do
+    if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+    pcall(function()
+    v.Character.HumanoidRootPart.Size = Vector3.new(1, 1, 1)
+    v.Character.HumanoidRootPart.Transparency = 1
+    v.Character.HumanoidRootPart.BrickColor = BrickColor.new("Medium stone grey")
+    v.Character.HumanoidRootPart.Material = "Plastic"
+    v.Character.HumanoidRootPart.CanCollide = true
+    end)
+    end
+    end
+    end
+    end)
+end)
+
+MiscSection:NewButton("Re-equip Items", "I SPOT A BBL!", function()
+    local args = {
+        [1] = 1,
+        [2] = "W6"
+    }
+    
+    game:GetService("ReplicatedStorage").Events.InventoryEvent:FireServer(unpack(args))
+    
+    local args = {
+        [1] = 1,
+        [2] = "B3"
+    }
+    
+    game:GetService("ReplicatedStorage").Events.InventoryEvent:FireServer(unpack(args))
+    
+    local args = {
+        [1] = 1,
+        [2] = "W6"
+    }
+    
+    game:GetService("ReplicatedStorage").Events.InventoryEvent:FireServer(unpack(args))
+    
+    local args = {
+        [1] = 1,
+        [2] = "B3"
+    }
+    
+    game:GetService("ReplicatedStorage").Events.InventoryEvent:FireServer(unpack(args))
+end)
+
+MiscSection:NewButton("TP Galleons", "Teleports galleon bags to you.", function()
+    while true do
+        wait()
+        local plr = game.Players.LocalPlayer.Character.HumanoidRootPart
+        for i,v in pairs(game.Workspace.Loots:GetChildren()) do
+           if v:FindFirstChild 'Loot' then
+               for _, f in pairs(v:GetChildren()) do
+                   if f.name == "Loot" then
+                     f.CFrame = plr.CFrame
+        end
+        end
+        end
+        end
+        end
+
+end)
+
+MiscSection:NewButton("No Animation Script", "This shit is for NOOOOOBS!", function()
+ --credits to Cyclically#4905 fo tools dupe script -2019/6/29
+
+-- Farewell Infortality.
+-- Version: 2.82
+-- Instances:
+local magik = Instance.new("ScreenGui")
+local main = Instance.new("Frame")
+local spell2 = Instance.new("TextBox")
+local spell1 = Instance.new("TextBox")
+local spell3 = Instance.new("TextBox")
+local key1 = Instance.new("TextBox")
+local key2 = Instance.new("TextBox")
+local key3 = Instance.new("TextBox")
+local top = Instance.new("Frame")
+local credit = Instance.new("TextLabel")
+local plr = Instance.new("TextBox")
+local bruh = Instance.new("TextButton")
+local cbring = Instance.new("TextButton")
+local lock = Instance.new("TextLabel")
+local wl = Instance.new("TextBox")
+local fix = Instance.new("TextButton")
+--Properties:
+magik.Name = "magik"
+magik.Parent = game.CoreGui
+
+main.Name = "main"
+main.Parent = magik
+main.BackgroundColor3 = Color3.new(1, 1, 1)
+main.BackgroundTransparency = 1
+main.Position = UDim2.new(0.084381938, 10, 0.411764681, 96)
+main.Size = UDim2.new(0, 322, 0, 160)
+
+spell2.Name = "spell2"
+spell2.Parent = main
+spell2.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+spell2.Position = UDim2.new(0.241061389, 0, 0.475435704, 0)
+spell2.Size = UDim2.new(0, 210, 0, 28)
+spell2.Font = Enum.Font.Fantasy
+spell2.Text = ""
+spell2.TextColor3 = Color3.new(0, 0, 0)
+spell2.TextScaled = true
+spell2.TextSize = 14
+spell2.TextWrapped = true
+
+spell1.Name = "spell1"
+spell1.Parent = main
+spell1.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+spell1.Position = UDim2.new(0.241061389, 0, 0.200435609, 0)
+spell1.Size = UDim2.new(0, 210, 0, 28)
+spell1.Font = Enum.Font.Fantasy
+spell1.Text = "avada kedavra"
+spell1.TextColor3 = Color3.new(0, 0, 0)
+spell1.TextScaled = true
+spell1.TextSize = 14
+spell1.TextWrapped = true
+
+spell3.Name = "spell3"
+spell3.Parent = main
+spell3.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+spell3.Position = UDim2.new(0.241061389, 0, 0.78168565, 0)
+spell3.Size = UDim2.new(0, 210, 0, 28)
+spell3.Font = Enum.Font.Fantasy
+spell3.Text = ""
+spell3.TextColor3 = Color3.new(0, 0, 0)
+spell3.TextScaled = true
+spell3.TextSize = 14
+spell3.TextWrapped = true
+
+key1.Name = "key1"
+key1.Parent = main
+key1.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+key1.Position = UDim2.new(0.0584751852, 0, 0.200435638, 0)
+key1.Size = UDim2.new(0, 28, 0, 28)
+key1.Font = Enum.Font.Fantasy
+key1.Text = "e"
+key1.TextColor3 = Color3.new(0, 0, 0)
+key1.TextScaled = true
+key1.TextSize = 14
+key1.TextWrapped = true
+
+key2.Name = "key2"
+key2.Parent = main
+key2.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+key2.Position = UDim2.new(0.0584751852, 0, 0.475435644, 0)
+key2.Size = UDim2.new(0, 28, 0, 28)
+key2.Font = Enum.Font.Fantasy
+key2.Text = ""
+key2.TextColor3 = Color3.new(0, 0, 0)
+key2.TextScaled = true
+key2.TextSize = 14
+key2.TextWrapped = true
+
+key3.Name = "key3"
+key3.Parent = main
+key3.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+key3.Position = UDim2.new(0.0584751852, 0, 0.78168565, 0)
+key3.Size = UDim2.new(0, 28, 0, 28)
+key3.Font = Enum.Font.Fantasy
+key3.Text = ""
+key3.TextColor3 = Color3.new(0, 0, 0)
+key3.TextScaled = true
+key3.TextSize = 14
+key3.TextWrapped = true
+
+top.Name = "top"
+top.Parent = main
+top.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+top.Size = UDim2.new(0, 322, 0, 21)
+
+credit.Name = "credit"
+credit.Parent = top
+credit.BackgroundColor3 = Color3.new(1, 1, 1)
+credit.BackgroundTransparency = 1
+credit.Size = UDim2.new(0, 182, 0, 21)
+credit.Font = Enum.Font.Fantasy
+credit.Text = "Gui by: zombieslayerwtf#0583"
+credit.TextColor3 = Color3.new(0, 0, 0)
+credit.TextScaled = true
+credit.TextSize = 14
+credit.TextWrapped = true
+
+plr.Name = "plr"
+plr.Parent = main
+plr.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+plr.Position = UDim2.new(0.399446487, 0, 1.05043578, 0)
+plr.Size = UDim2.new(0, 119, 0, 28)
+plr.Font = Enum.Font.Fantasy
+plr.PlaceholderText = "PlayerNameHere"
+plr.Text = ""
+plr.TextColor3 = Color3.new(0, 0, 0)
+plr.TextScaled = true
+plr.TextSize = 14
+plr.TextWrapped = true
+
+bruh.Name = "bruh"
+bruh.Parent = main
+bruh.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+bruh.Position = UDim2.new(0.0559006222, 0, 1.05000019, 0)
+bruh.Size = UDim2.new(0, 46, 0, 28)
+bruh.Font = Enum.Font.Fantasy
+bruh.Text = "goto"
+bruh.TextColor3 = Color3.new(0, 0, 0)
+bruh.TextScaled = true
+bruh.TextSize = 14
+bruh.TextWrapped = true
+
+cbring.Name = "cbring"
+cbring.Parent = main
+cbring.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+cbring.Position = UDim2.new(0.223602489, 0, 1.05000019, 0)
+cbring.Size = UDim2.new(0, 47, 0, 28)
+cbring.Font = Enum.Font.Fantasy
+cbring.Text = "CBring"
+cbring.TextColor3 = Color3.new(0, 0, 0)
+cbring.TextScaled = true
+cbring.TextSize = 14
+cbring.TextWrapped = true
+
+lock.Name = "lock"
+lock.Parent = main
+lock.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+lock.Position = UDim2.new(0.0553695969, 0, 1.30000019, 0)
+lock.Size = UDim2.new(0, 129, 0, 69)
+lock.Font = Enum.Font.Fantasy
+lock.Text = "Locked >:)"
+lock.TextColor3 = Color3.new(0, 0, 0)
+lock.TextScaled = true
+lock.TextSize = 14
+lock.TextWrapped = true
+
+wl.Name = "wl"
+wl.Parent = main
+wl.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+wl.Position = UDim2.new(0.455990702, 0, 1.30000019, 0)
+wl.Size = UDim2.new(0, 140, 0, 69)
+wl.Font = Enum.Font.Fantasy
+wl.PlaceholderText = "WhitelistKey"
+wl.Text = ""
+wl.TextColor3 = Color3.new(0, 0, 0)
+wl.TextScaled = true
+wl.TextSize = 14
+wl.TextWrapped = true
+
+fix.Name = "fix"
+fix.Parent = main
+fix.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+fix.Position = UDim2.new(0.788819849, 0, 1.05000019, 0)
+fix.Size = UDim2.new(0, 32, 0, 28)
+fix.Font = Enum.Font.Fantasy
+fix.Text = "un stuck"
+fix.TextColor3 = Color3.new(0, 0, 0)
+fix.TextScaled = true
+fix.TextSize = 14
+fix.TextWrapped = true
+-- Scripts:
+  local script = Instance.new('LocalScript')
+  script.Parent = top
+  function dragify(Main)
+    dragToggle = nil
+    local dragSpeed = .50 -- You can edit this.
+    dragInput = nil
+    dragStart = nil
+    local dragPos = nil
+
+    function updateInput(input)
+      local Delta = input.Position - dragStart
+      local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+      game:GetService("TweenService"):Create(Main, TweenInfo.new(.25), {Position = Position}):Play()
+    end
+
+    Main.InputBegan:Connect(function(input)
+    if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then
+      dragToggle = true
+      dragStart = input.Position
+      startPos = Main.Position
+      input.Changed:Connect(function()
+      if (input.UserInputState == Enum.UserInputState.End) then
+        dragToggle = false
+      end
+      end)
+    end
+    end)
+
+    Main.InputChanged:Connect(function(input)
+    if (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+      dragInput = input
+    end
+    end)
+
+    game:GetService("UserInputService").InputChanged:Connect(function(input)
+    if (input == dragInput and dragToggle) then
+      updateInput(input)
+    end
+    end)
+  end
+
+
+
+  dragify(script.Parent.Parent) --dragify function
+
+
+
+  local script = Instance.new('LocalScript')
+  script.Parent = main
+  local sp = script.Parent
+
+
+
+  bruh = sp.bruh
+  cbring = sp.cbring
+  fix = sp.fix
+
+
+  spell1 = sp.spell1.Text
+  spell2 = sp.spell2.Text
+  spell3 = sp.spell3.Text
+
+  plr = sp.plr.Text
+
+  wl = sp.wl
+  lock = sp.lock
+
+  key1 = sp.key1.Text
+  key2 = sp.key2.Text
+  key3 = sp.key3.Text
+
+
+
+  sp.plr:GetPropertyChangedSignal("Text"):Connect(function()
+  plr = sp.plr.Text
+  end)
+  sp.key1:GetPropertyChangedSignal("Text"):Connect(function()
+  key1 = sp.key1.Text
+  end)
+  sp.key2:GetPropertyChangedSignal("Text"):Connect(function()
+  key2 = sp.key2.Text
+  end)
+  sp.key3:GetPropertyChangedSignal("Text"):Connect(function()
+  key3 = sp.key3.Text
+  end)
+
+  sp.spell1:GetPropertyChangedSignal("Text"):Connect(function()
+  spell1 = sp.spell1.Text
+  end)
+  sp.spell2:GetPropertyChangedSignal("Text"):Connect(function()
+  spell2 = sp.spell2.Text
+  end)
+  sp.spell3:GetPropertyChangedSignal("Text"):Connect(function()
+  spell3 = sp.spell3.Text
+  end)
+
+  wl:GetPropertyChangedSignal("Text"):Connect(function()
+  if wl.Text == "omgzombieisthebestscripter" then
+    wl:destroy()
+    lock:destroy()
+    local equip = Instance.new("TextButton")
+    local dupe = Instance.new("TextButton")
+    local amou = Instance.new("TextBox")
+    local anti = Instance.new("TextButton")
+    local bool = Instance.new("BoolValue")
+
+
+    equip.Name = "equip"
+    equip.Parent = sp
+    equip.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+    equip.Position = UDim2.new(0.602484465, 0, 1.32500017, 0)
+    equip.Size = UDim2.new(0, 93, 0, 28)
+    equip.Font = Enum.Font.Fantasy
+    equip.Text = "Equip All Wands(T)"
+    equip.TextColor3 = Color3.new(0, 0, 0)
+    equip.TextScaled = true
+    equip.TextSize = 14
+    equip.TextWrapped = true
+
+    dupe.Name = "dupe"
+    dupe.Parent = sp
+    dupe.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+    dupe.Position = UDim2.new(0.270186335, 0, 1.32500017, 0)
+    dupe.Size = UDim2.new(0, 78, 0, 28)
+    dupe.Font = Enum.Font.Fantasy
+    dupe.Text = "Spawn Wands"
+    dupe.TextColor3 = Color3.new(0, 0, 0)
+    dupe.TextScaled = true
+    dupe.TextSize = 14
+    dupe.TextWrapped = true
+
+    amou.Name = "amou"
+    amou.Parent = sp
+    amou.BackgroundColor3 = Color3.new(0.333333, 1, 1)
+    amou.Position = UDim2.new(0.0584751852, 0, 1.31918585, 0)
+    amou.Size = UDim2.new(0, 46, 0, 28)
+    amou.Font = Enum.Font.Code
+    amou.Text = "10"
+    amou.TextColor3 = Color3.new(0, 0, 0)
+    amou.TextScaled = true
+    amou.TextSize = 14
+    amou.TextWrapped = true
+    amou = sp.amou.Text
+
+    anti.Name = "anti"
+    anti.Parent = sp
+    anti.BackgroundColor3 = Color3.new(1, 0, 0)
+    anti.Position = UDim2.new(0.0559006222, 0, 1.56250024, 0)
+    anti.Size = UDim2.new(0, 72, 0, 28)
+    anti.Font = Enum.Font.Fantasy
+    anti.Text = "Anti Shield"
+    anti.TextColor3 = Color3.new(0, 0, 0)
+    anti.TextScaled = true
+    anti.TextSize = 14
+    anti.TextWrapped = true
+
+    bool.Name = "bool"
+    bool.Parent = anti
+    bool.Value = false
+
+    _G.antiloop = false
+    antitrue = sp.anti.bool
+    anti = sp.anti
+
+
+
+    sp.anti.bool:GetPropertyChangedSignal("Value"):Connect(function()
+    if sp.anti.bool.Value == true then
+      anti.BackgroundColor3 = Color3.new(0,255/255,0)
+    elseif sp.anti.bool.Value == false then
+      anti.BackgroundColor3 = Color3.new(255/255,0,0)
+    end
+    _G.antiloop = antitrue.Value
+    end)
+    sp.amou:GetPropertyChangedSignal("Text"):Connect(function()
+    amou = sp.amou.Text
+    end)
+    equip.MouseButton1Click:connect(function()
+    for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+      if v:IsA("Tool") then
+        v.Parent = game.Players.LocalPlayer.Character
+      end
+    end
+    end)
+    anti.MouseButton1Click:connect(function()
+    antitrue.Value = not antitrue.Value
+    while _G.antiloop do
+      wait()
+      if game.workspace:FindFirstChild("protegoShield") then
+        game.workspace.protegoShield:remove()
+      end
+    end
+    end)
+    dupe.MouseButton1Click:connect(function()
+    --[[
+    Cyclically's FE Tool Duplicate Tools V2
+    After executing the script, please wait until you are able to move your character again.
+    https://v3rmillion.net/member.php?action=profile&uid=785986
+    ]]
+
+    local toolamount = amou+0 -- Amount of tools you want to duplicate
+
+    -- Don't edit script unless you know what you're doing. If you wanna add this into a script, please give credits and message me on discord that you added it in a script at Cyclically#4905
+
+    local LocalPlayer = game:GetService("Players").LocalPlayer
+    local savepos = LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame
+    local characters = {}
+    LocalPlayer.Character:FindFirstChild("Humanoid"):UnequipTools()
+    local currentamount = #LocalPlayer.Backpack:GetChildren()
+    LocalPlayer.Character.Archivable = true
+    local tempchar = LocalPlayer.Character:Clone()
+    tempchar.Parent = workspace
+    repeat
+      workspace.CurrentCamera.CameraSubject = tempchar:FindFirstChild("Humanoid")
+      for _, tool in pairs(LocalPlayer.Backpack:GetChildren()) do
+        if tool:IsA("Tool") then
+          tool.Parent = LocalPlayer
+        end
+      end
+      LocalPlayer.Character:ClearAllChildren()
+      local char = Instance.new("Model", workspace)
+      table.insert(characters, char)
+      Instance.new("Humanoid", char)
+      LocalPlayer.Character = char
+	wait(0.05)
+      repeat wait() until LocalPlayer.Character
+      until #LocalPlayer:GetChildren() - 4 - currentamount >= toolamount
+      for _, char in pairs(characters) do
+        char:Destroy()
+      end
+      repeat wait() until LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+        LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = savepos
+        for _, tool in pairs(LocalPlayer:GetChildren()) do
+          if tool:IsA("Tool") then
+            tool.Parent = LocalPlayer.Backpack
+          end
+        end
+        tempchar:Destroy()
+
+        end)
+        plr = game.Players.LocalPlayer
+        mouse = plr:GetMouse()
+        mouse.KeyDown:connect(function(key)
+        if key == "t" then
+          for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+            if v:IsA("Tool") then
+              v.Parent = game.Players.LocalPlayer.Character
+            end
+          end
+        end
+        end)
+
+
+      end
+      end)
+
+
+      fix.MouseButton1Click:connect(function()
+      for i,v in pairs(game.Players:GetChildren()) do
+        v.Character.HumanoidRootPart.Anchored = false
+      end
+      end)
+
+
+      bruh.MouseButton1Click:connect(function()
+      local Players = game:GetService("Players")
+      local LocalPlayer = Players.LocalPlayer
+      local function RemoveSpaces(String)
+        return String:gsub("%s+", "") or String
+      end
+
+      local function FindPlayer(String)
+        String = RemoveSpaces(String)
+        for _, _Player in pairs(Players:GetPlayers()) do
+          if _Player.Name:lower():match('^'.. String:lower()) then
+            return _Player
+          end
+        end
+        return nil
+      end
+      wait()
+      game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = FindPlayer(plr).Character.HumanoidRootPart.CFrame
+      end)
+
+      cbring.MouseButton1Click:connect(function()
+      local Players = game:GetService("Players")
+      local LocalPlayer = Players.LocalPlayer
+      local function RemoveSpaces(String)
+        return String:gsub("%s+", "") or String
+      end
+
+      local function FindPlayer(String)
+        String = RemoveSpaces(String)
+        for _, _Player in pairs(Players:GetPlayers()) do
+          if _Player.Name:lower():match('^'.. String:lower()) then
+            return _Player
+          end
+        end
+        return nil
+      end
+      wait()
+      FindPlayer(plr).Character.HumanoidRootPart.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0, 0, 0) + game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.lookVector * 2
+      FindPlayer(plr).Character.HumanoidRootPart.Anchored = true
+      end)
+
+      plr = game.Players.LocalPlayer
+      mouse = plr:GetMouse()
+      mouse.KeyDown:connect(function(key)
+      if key == key1 then
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(spell1, "All")
+        game.Players:chat(spell1)
+      elseif key == key2 then
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(spell2, "All")
+        game.Players:chat(spell2)
+      elseif key == key3 then
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(spell3, "All")
+        game.Players:chat(spell3)
+      end
+      end)
+end)
+
+MiscSection:NewButton("Best WL Autoblock", "R to toggle", function()
+    local solar = false
+    local cylane = "r"
+    
+    local m = game:GetService"Players".LocalPlayer:GetMouse()
+    m.KeyDown:connect(function(k)
+       if k == cylane then
+           solar = not solar
+       end
+    end)
+    
+    spawn(function()
+       while wait() do
+           if solar then
+               game.ReplicatedStorage.Events.WandEvent:FireServer(3)
+         wait(1.983)
+       end
+    end
+    end)
+end)
+
+MiscSection:NewButton("Avada Storm", "Z to toggle all avada scripts.", function()
+    local q   = "avada kedavra"
+    local Key = "z" -- Key that toggles script
+    local plr       = game.Players.LocalPlayer
+    local char       =  plr.Character
+    local mouse       =  plr:GetMouse()
+    local KeyDown = false
+    _G.toggle  = false
+    
+ function shoot()
+        local v = (mouse.Hit.p).unit * Vector3.new(math.random(-30, 30),-50,math.random(-30, 30))
+        local w = v * 100
+        local x = math.random(100, 1000)
+        local y = mouse.Hit.p + -v + Vector3.new(math.random(-20, 20), math.random(200, 2000), math.random(-20, 20)) + -v * math.random(0, 0)
+                plr.PlayerGui.Client.fwp:Fire(y, w, true, q)
+                game.ReplicatedStorage.Events.ProjEvent:FireServer(y, w, q, x)
+    end
+ mouse.KeyDown:connect(function(key)
+    if key == Key then
+        if _G.toggle == true then
+            _G.toggle = false
+        else if _G.toggle == false then
+            _G.toggle     = true
+        end
+        end
+    end
+ end)
+ 
+ local player = game.Players.LocalPlayer
+ local mouse = player:GetMouse()
+ local Animate 
+ local Humanoid = player.Character:FindFirstChild('Humanoid')
+ 
+ mouse.Button1Down:connect(function()
+    KeyDown       = true
+    while KeyDown == true and _G.toggle do
+  
+  local Animation = Instance.new("Animation", player.Character)
+   Animation.AnimationId = "rbxassetid://754656200"
+   Animate = Humanoid:LoadAnimation(Animation)
+   Animate:Play(0.5, 1, .5)
+ 
+ wait(0.5)
+ Animate:Stop()
+ 
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+   shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+  shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ shoot()
+ 
+ 
+ 
+ wait(.001)
+    end  
+ end)
+ 
+ 
+ mouse.Button1Up:connect(function()
+    KeyDown = false
+ end)
+end)
+
+MiscSection:NewButton("Avada Rain", "I don't got any other ideas for the name so ig this is it.", function()
+    local q   = "avada kedavra"
+    local Key = "z" -- Key that toggles script
+    local plr       = game.Players.LocalPlayer
+    local char       =  plr.Character
+    local mouse       =  plr:GetMouse()
+    local KeyDown = false
+    _G.toggle  = false
+ 
+ function shoot()
+        local v = (mouse.hit.p - game.Workspace.CurrentCamera.CoordinateFrame.p).unit
+        --original speed is 625
+ local w = v *  math.random(1000, 1000)
+        local x = 1
+        local y = game.Workspace.CurrentCamera.CoordinateFrame.p + v + Vector3.new(math.random(-50,50), math.random(1,1), math.random(-50,50)) + -v * math.random(10,10)
+                plr.PlayerGui.Client.fwp:Fire(y, w, true, q)
+                game.ReplicatedStorage.Events.ProjEvent:FireServer(y, w, q, x)
+    end
+ mouse.KeyDown:connect(function(key)
+    if key == Key then
+        if _G.toggle == true then
+            _G.toggle = false
+        else if _G.toggle == false then
+            _G.toggle     = true
+        end
+        end
+    end
+ end)
+ 
+ 
+ 
+ 
+ mouse.Button1Down:connect(function()
+    KeyDown       = true
+    while KeyDown == true and _G.toggle do
+ 
+ shoot()
+ 
+ wait(0.05)
+    end
+ end)
+ 
+ 
+ mouse.Button1Up:connect(function()
+    KeyDown = false
+ end)
+end)
+
+MiscSection:NewButton("Avada Beam", "Big Black Monkey Balls", function()
+    local q   = "avada kedavra"
+    local Key = "z" -- Key that toggles script
+    local plr       = game.Players.LocalPlayer
+    local char       =  plr.Character
+    local mouse       =  plr:GetMouse()
+    local KeyDown = false
+    _G.toggle  = false
+ 
+ function shoot()
+        local v = (mouse.hit.p - game.Workspace.CurrentCamera.CoordinateFrame.p).unit
+        --original speed is 625
+ local w = v *  math.random(100, 1000)
+        local x = 99999999999999
+        local y = game.Workspace.CurrentCamera.CoordinateFrame.p + v
+                plr.PlayerGui.Client.fwp:Fire(y, w, true, q)
+                game.ReplicatedStorage.Events.ProjEvent:FireServer(y, w, q, x)
+    end
+ mouse.KeyDown:connect(function(key)
+    if key == Key then
+        if _G.toggle == true then
+            _G.toggle = false
+        else if _G.toggle == false then
+            _G.toggle     = true
+        end
+        end
+    end
+ end)
+ 
+ 
+ 
+ 
+ mouse.Button1Down:connect(function()
+    KeyDown       = true
+    while KeyDown == true and _G.toggle do
+ 
+ 
+ 
+  shoot()
+ 
+ wait(0.00000001)
+  end
+ end)
+ 
+ 
+ mouse.Button1Up:connect(function()
+    KeyDown = false
+ end)
+end)
+
+--Liam is a little monkey
